@@ -9,6 +9,7 @@
 
 | 题号                                                    | 题目                                                              | 题解  | 难度 |
 |:------------------------------------------------------|:----------------------------------------------------------------|:---:|:--:|
+| [0020](src/solutions/s0020_valid_parentheses.zig)     | [✅ 有效的括号](https://leetcode.cn/problems/valid-parentheses/)      |  栈  | 简单 |
 | [0014](src/solutions/s0014_longest_common_prefix.zig) | [✅ 最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/) | 字符串 | 简单 |
 | [0013](src/solutions/s0013_roman_to_integer.zig)      | [✅ 罗马数字转整数](https://leetcode.cn/problems/roman-to-integer/)     | 哈希表 | 简单 |
 | [0009](src/solutions/s0009_palindrome_number.zig)     | [✅ 回文数](https://leetcode.cn/problems/palindrome-number/)        | 数学  | 简单 |

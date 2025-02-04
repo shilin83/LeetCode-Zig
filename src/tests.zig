@@ -10,4 +10,7 @@ test {
 
     // * 14.最长公共前缀
     _ = @import("solutions/s0014_longest_common_prefix.zig");
+
+    // * 20.有效的括号
+    _ = @import("solutions/s0020_valid_parentheses.zig");
 }
