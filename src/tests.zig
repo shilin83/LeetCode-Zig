@@ -7,4 +7,7 @@ test {
 
     // * 13.罗马数字转整数
     _ = @import("solutions/s0013_roman_to_integer.zig");
+
+    // * 14.最长公共前缀
+    _ = @import("solutions/s0014_longest_common_prefix.zig");
 }
