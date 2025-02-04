@@ -4,4 +4,7 @@ test {
 
     // * 9.回文数
     _ = @import("solutions/s0009_palindrome_number.zig");
+
+    // * 13.罗马数字转整数
+    _ = @import("solutions/s0013_roman_to_integer.zig");
 }

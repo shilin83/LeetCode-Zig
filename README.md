@@ -7,7 +7,8 @@
 
 ## 题库列表
 
-| 题号                                                | 题目                                                     | 题解  | 难度 |
-|:--------------------------------------------------|:-------------------------------------------------------|:---:|:--:|
-| [0009](src/solutions/s0009_palindrome_number.zig) | [回文数](https://leetcode.cn/problems/palindrome-number/) | 数学  | 简单 |
-| [0001](src/solutions/s0001_two_sum.zig)           | [✅ 两数之和](https://leetcode.cn/problems/two-sum)         | 哈希表 | 简单 |
+| 题号                                                | 题目                                                          | 题解  | 难度 |
+|:--------------------------------------------------|:------------------------------------------------------------|:---:|:--:|
+| [0013](src/solutions/s0013_roman_to_integer.zig)  | [✅ 罗马数字转整数](https://leetcode.cn/problems/roman-to-integer/) | 哈希表 | 简单 |
+| [0009](src/solutions/s0009_palindrome_number.zig) | [✅ 回文数](https://leetcode.cn/problems/palindrome-number/)    | 数学  | 简单 |
+| [0001](src/solutions/s0001_two_sum.zig)           | [✅ 两数之和](https://leetcode.cn/problems/two-sum)              | 哈希表 | 简单 |

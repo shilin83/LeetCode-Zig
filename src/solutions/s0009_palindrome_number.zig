@@ -6,7 +6,7 @@ fn is_palindrome(x: i32) bool {
         return false;
     }
 
-    var num: i32 = 0;
+    var num: i32 = x;
     var reverted: i32 = 0;
 
     // * 当原始数字大于反转后的数字时, 说明还没处理到一半
